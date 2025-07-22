@@ -5,6 +5,9 @@
 - About Project 
    - this is a simple resume project built with HTML only
       a strictly web dev intro resume webpage
+# ############################################################################
+- Project Live link
+      - https://sayon-okai.github.io/resume-capstone.io/
 
 - Written By 
    - Name
